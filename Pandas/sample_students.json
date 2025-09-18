@@ -1,0 +1,17 @@
+{
+    "name": "Akshay Kumar",
+    "age": 18,
+    "gender": "Male",
+    "marks_12th": {
+        "Physics": 85,
+        "Chemistry": 78,
+        "Maths": 90,
+        "English": 80,
+        "Computer Science": 88
+    },
+    "qualification_exam": {
+        "exam_name": "JEE",
+        "score": 92
+    },
+    "desired_course": "Computer Science Engineering"
+}
